@@ -14,7 +14,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yogeshkarpe-dot&label=Profile+Views&color=0abfaa&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/yogeshkarpe-dot?label=Followers&style=flat-square&color=0abfaa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/yogeshmkarpe)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0ABFAA?style=flat-square&logo=google-chrome&logoColor=white)](https://yogeshkarpe-dot.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0ABFAA?style=flat-square&logo=google-chrome&logoColor=white)](https://x.yogeshkarpe1410.workers.dev/)
 
 </div>
 
