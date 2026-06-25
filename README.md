@@ -135,84 +135,6 @@ const yogesh: Developer = {
 
 </div>
 
----
-
-## 💼 Work Experience
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏢 Sourceget · Surat *(Jul 2025 – Apr 2026)*
-**Full-Stack Software Developer**
-
-> 🚀 **OronTrade — Trading Broker CRM**
-
-- 🏗️ Built **Club Bonus** engine from scratch (sole owner)
-- ⚡ **~50%** faster SQL query execution via strategic indexing
-- 📧 **70%** faster email pipeline with Azure Functions
-- 📦 **60%** faster logging via Azure Table Storage migration
-- 🔗 MetaTrader 5 API integration for live trading accounts
-- 🧩 Zero-code tier deployment via database-driven config
-
-</td>
-<td width="50%">
-
-### 🏢 Skystone Soft Solutions · Hyderabad *(Mar 2023 – Jul 2025)*
-**Full-Stack Software Developer**
-
-> 🤖 **CFO Digital Finance Platform**
-
-- 💡 Integrated **Azure OpenAI (GPT-4)** for invoice & reconciliation automation
-- 📉 **40%** reduction in monthly financial close time
-- 📊 Built **Order-to-Cash, AP, Treasury** REST APIs in microservices architecture
-- 🚌 Event-driven services via **Azure Service Bus**
-- 🔐 Platform security via **Azure Key Vault** + RBAC
-- ⚡ Near-instant reconciliation via Redis caching
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌟 Featured Project
-
-<div align="center">
-
-### Club Bonus Module — OronTrade CRM
-
-</div>
-
-> Designed and delivered a **dynamic, database-driven tiered rewards engine** for a live trading broker CRM — entirely from scratch, with full ownership across API, SQL schema, business logic, and React UI.
-
-| Component | What I Built |
-|---|---|
-| 🗄️ **SQL Schema** | Normalised relational schema — multi-tier bonuses, accrual rules, expiry, payouts |
-| 🔌 **REST APIs** | Eligibility evaluation, tier progression, real-time balance, MT5 disbursement |
-| ⚙️ **Business Logic** | Upgrade/downgrade triggers, reversal flows, edge-case accrual — Result Pattern |
-| ⚡ **Performance** | Strategic indexing + SP optimisation → **~50% query time reduction** |
-| 🎨 **React UI** | Bonus dashboards, eligibility views, real-time payout tracking |
-| 🔄 **Config-Driven** | New tiers deploy via DB config — **zero code changes** |
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| 🎯 Metric | 📈 Impact |
-|---|---|
-| SQL query optimisation | **~50% faster** bonus calculation on large datasets |
-| Azure Functions automation | **70% faster** email processing |
-| Azure Table Storage migration | **60% faster** log writes + **35%** storage cost reduction |
-| Azure Functions + Service Bus | **40% reduction** in monthly financial close time |
-| Config-driven architecture | **Zero code changes** to deploy new bonus tiers |
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -234,17 +156,6 @@ const yogesh: Developer = {
 [![trophy](https://github-profile-trophy.vercel.app/?username=yogeshkarpe-dot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/yogeshkarpe-dot)
 
 </div>
-
----
-
-## 🎓 Education
-
-| 🎓 Degree | 📚 Field | 🏫 College | 📅 Year | ⭐ Score |
-|---|---|---|---|---|
-| Bachelor of Engineering | Electronics & Telecommunication | ICEEM College, Aurangabad | 2020 – 2023 | **8.01 / 10** |
-| Diploma in Engineering | Electronics & Telecommunication | Y.C.I.P College, Beed | 2018 – 2020 | **90%** |
-
----
 
 ## 🤝 Let's Connect
 
