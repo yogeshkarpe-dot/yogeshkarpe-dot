@@ -29,15 +29,8 @@ const yogesh: Developer = {
   location:   "Gujarat, India 🇮🇳",
   experience: "3+ years",
   email:      "yogeshkarpe1410@gmail.com",
-
-  currentWork:  "OronTrade — Trading Broker CRM @ Sourceget",
-  focus:        ["Club Bonus Engine", "MT5 API Integration", "Azure Functions"],
-
   domains:      ["FinTech", "Trading CRM", "Order-to-Cash", "Accounts Payable"],
   superpower:   "Owning features end-to-end — schema to UI to cloud",
-
-  askMeAbout:   [".NET Core", "React", "SQL Server", "Azure OpenAI", "System Design"],
-  funFact:      "I reduced bonus query time by 50% with pure SQL optimisation 🚀",
 };
 ```
 
