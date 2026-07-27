@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/yogeshkarpe-dot">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0ABFAA&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+.NET+Core+Developer;React+%2B+TypeScript+Enthusiast;Azure+Cloud+%26+OpenAI+Integration;FinTech+%26+Trading+CRM+Expert;Clean+Architecture+Advocate;Building+Systems+That+Scale+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0ABFAA&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+.NET+Core+Developer;Angular+Enthusiast;Azure+Cloud;FinTech+%26+Trading+CRM+Expert;Clean+Architecture+Advocate;Building+Systems+That+Scale+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -53,21 +53,11 @@ const yogesh: Developer = {
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Razor Pages](https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Hangfire](https://img.shields.io/badge/Hangfire-2D9E6A?style=for-the-badge&logo=clockify&logoColor=white)
-
-</div>
-
-### 🤖 AI / LLM
-<div align="left">
-
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI_(GPT--4)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -163,7 +153,7 @@ const yogesh: Developer = {
 
 > 💬 *Open to full-time roles, remote opportunities, and freelance fintech projects.*
 > 
-> ⚡ *Available for .NET Core, React, Azure, and Trading CRM work — let's build something great.*
+> ⚡ *Available for .NET Core, Azure, Angular, and FinTech projects work — let's build something great.*
 
 </div>
 
