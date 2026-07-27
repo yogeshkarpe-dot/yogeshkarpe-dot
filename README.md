@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Capsule Render Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yogesh%20Karpe&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20.NET%20Developer%20%7C%20Azure%20%7C%20React%20%7C%20FinTech&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yogesh%20Karpe&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20.NET%20Developer%20%7C%20Azure%20%7C%20Angular%20%7C%20FinTech&descAlignY=60&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://github.com/yogeshkarpe-dot">
